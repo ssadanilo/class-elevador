@@ -35,7 +35,7 @@ class Elevador:
             print('NÃO TEM NINGUÉM')
 
 # Uso da class Elevador
-elevador = Elevador()
+elevador = Elevador() # Criando o objeto
 elevador.entrar()
 elevador.entrar()
 elevador.entrar()
